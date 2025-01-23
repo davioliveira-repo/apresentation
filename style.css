@@ -27,9 +27,12 @@ header{
 header h1{
     text-align: center;
     font-size: 30px;
+    margin: 0px;
+    padding: 5px 0px 10px 0px;
 }
 header p{
     text-indent: 30px;
+    text-align: justify;
 }
 header img{
     float: left;
@@ -49,9 +52,18 @@ main h2{
     margin: 0px;
 }
 .links p{
+    display: inline-block;
     background-color: var(--cor3);
     padding: 3px 3px 0px 3px;
     border-radius: 5px;
-    margin: 10px;
+    margin: 10px 10px 0px 0px;
     width: 30px;
+}
+footer{
+    background-color: var(--cor5);
+    text-align: center;
+    color: white;
+}
+footer p{
+    padding: 2px 0px;
 }

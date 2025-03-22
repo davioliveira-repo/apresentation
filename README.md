@@ -1,4 +1,4 @@
 # apresentation
  Site de Apresentação de Davi Oliveira
 
- Site atualmente incompleto porém chegando perto do fim
+ Site temporáriamente completo, sujeito a alterações futuras
